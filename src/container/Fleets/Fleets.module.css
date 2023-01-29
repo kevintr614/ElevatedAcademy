@@ -1,0 +1,23 @@
+.container{
+    padding: 140px 0;
+}
+.card{
+    margin-top: 110px;
+}
+.card:first-child,
+.card:last-child{
+    margin-top: -50px;
+}
+
+@media(max-width: 899px){
+    .container{
+        padding: 50px 0;
+    }
+    .card {
+        margin-top: 50px;
+    }
+    .card:first-child,
+    .card:last-child{
+        margin-top: 50px;
+    }
+}

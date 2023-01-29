@@ -1,0 +1,26 @@
+.container{
+    margin-top: 50px;
+}
+.title{
+    text-align: center;
+    text-transform: capitalize;
+}
+.text{
+    text-align: center;
+}
+.tab{
+    margin: 40px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 50%;
+    font-size: 18px;
+}
+.tab > div{
+    cursor: pointer;
+}
+.tab > div:hover,
+.active{
+    text-decoration: underline;
+    color: #FFF;
+}

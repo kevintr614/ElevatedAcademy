@@ -1,0 +1,59 @@
+.container{
+    padding: 170px 0;
+    position: relative;
+}
+.bkg{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+.bkg_2{
+    position: absolute;
+    left: 0;
+    top: 100%;
+    transform: translateY(-50%);
+    z-index: -1;
+}
+.teamContainer{
+    border: 1px solid var(--yellow);
+    display: flex;
+    margin-top: 225px;
+    position: relative;
+}
+.meetTeam{
+    display: block;
+    position: absolute;
+    font-size: 16px;
+    line-height: 16px;
+    bottom: 32px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: var(--yellow);
+}
+.meetTeamIcon{
+    text-align: center;
+    margin-top: 16px;
+}
+.meetTeamIcon img{
+    display: inline-block;
+}
+
+@media(max-width: 899px){
+    .container{
+        padding: 100px 0;
+        position: relative;
+    }
+    .teamContainer{
+        border: none;
+        margin-top: 0;
+        display: block;
+    }
+    .meetTeam {
+        position: relative;
+        text-align: center;
+        margin-top: 50px;
+    }
+}

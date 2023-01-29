@@ -1,0 +1,30 @@
+.container{
+    padding: 160px 0;
+    position: relative;
+}
+.bkg{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+.bkg_2{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.spacing{
+    margin-top: 46px;
+}
+.card:last-child ul:after{
+    content: none;
+}
+
+@media(max-width: 899px){
+    .container{
+        padding: 100px 0;
+    }
+}

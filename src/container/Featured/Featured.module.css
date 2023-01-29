@@ -1,0 +1,65 @@
+.featuredContainer{
+    height: 100vh;
+    position: relative;
+}
+.background{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+}
+.textContainer{
+    height: calc(100vh - 150px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    flex-direction: column;
+    padding-top: 150px;
+}
+.textContent{
+    margin-top: auto;
+}
+.text{
+    font-size: 87px;
+    line-height: 87px;
+    margin-top: auto;
+}
+.caption{
+    font-size: 19px;
+    margin-top: 20px;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    margin-top: 7px;
+}
+.social a{
+    display: block;
+    padding: 7px 10px;
+    border-radius: 10px;
+    transition: all .3s ease-in-out;
+}
+.social a:hover{
+    background: #FFF;
+}
+.social img{
+    display: block;
+}
+
+@media(max-width: 899px){
+    .text{
+        font-size: 55px;
+        line-height: 60px;
+    }
+}
+@media(max-width: 599px){
+    .text{
+        font-size: 43px;
+        line-height: 53px;
+    }
+}

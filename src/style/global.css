@@ -1,0 +1,152 @@
+:root{
+    --yellow: #ECB956;
+    --font-regular: 'QuicksandRegular';
+    --font-semiBold: 'QuicksandSemiBold';
+    --font-secondary-black: 'BlackMangoBlack';
+    --font-third: 'RadleyRegular';
+}
+@font-face {
+    font-family: 'BlackMangoBlack';
+    src: url('../fonts/BlackMangoBlack.eot');
+    src: url('../fonts/BlackMangoBlack.eot') format('embedded-opentype'),
+    url('../fonts/BlackMangoBlack.woff2') format('woff2'),
+    url('../fonts/BlackMangoBlack.woff') format('woff'),
+    url('../fonts/BlackMangoBlack.ttf') format('truetype'),
+    url('../fonts/BlackMangoBlack.svg#BlackMangoBlack') format('svg');
+}
+
+@font-face {
+    font-family: 'QuicksandRegular';
+    src: url('../fonts/QuicksandRegular.eot');
+    src: url('../fonts/QuicksandRegular.eot') format('embedded-opentype'),
+    url('../fonts/QuicksandRegular.woff2') format('woff2'),
+    url('../fonts/QuicksandRegular.woff') format('woff'),
+    url('../fonts/QuicksandRegular.ttf') format('truetype'),
+    url('../fonts/QuicksandRegular.svg#QuicksandRegular') format('svg');
+}
+@font-face {
+    font-family: 'QuicksandSemiBold';
+    src: url('../fonts/QuicksandSemiBold.eot');
+    src: url('../fonts/QuicksandSemiBold.eot') format('embedded-opentype'),
+    url('../fonts/QuicksandSemiBold.woff2') format('woff2'),
+    url('../fonts/QuicksandSemiBold.woff') format('woff'),
+    url('../fonts/QuicksandSemiBold.ttf') format('truetype'),
+    url('../fonts/QuicksandSemiBold.svg#QuicksandSemiBold') format('svg');
+}
+@font-face {
+    font-family: 'RadleyRegular';
+    src: url('../fonts/RadleyRegular.eot');
+    src: url('../fonts/RadleyRegular.eot') format('embedded-opentype'),
+    url('../fonts/RadleyRegular.woff2') format('woff2'),
+    url('../fonts/RadleyRegular.woff') format('woff'),
+    url('../fonts/RadleyRegular.ttf') format('truetype'),
+    url('../fonts/RadleyRegular.svg#RadleyRegular') format('svg');
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    color: rgba(255, 255, 255, 0.7);
+    background: #141414;
+    font-family: var(--font-regular);
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.secondary-color{
+    color: var(--yellow);
+}
+@media (min-width: 600px) {
+    .container-fluid {
+        padding-left: 70px !important;
+        padding-right: 70px !important;
+    }
+}
+
+.mainTitle{
+    font-size: 71px;
+    line-height: 78px;
+    color: #FFF;
+    font-family: var(--font-secondary-black);
+}
+.mainTitle span{
+    color: var(--yellow);
+}
+.button{
+    border: 1px solid var(--yellow);
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    background: transparent;
+    font-size: 16px;
+    font-family: var(--font-semiBold);
+    height: 50px;
+    width: 252px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.button:hover{
+    background-color: var(--yellow);
+}
+.button img{
+    margin-left: 14px;
+}
+.text-center{
+    text-align: center;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #FFF;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #FFF;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #FFF;
+}
+
+@media(max-width: 1199px){
+    .mainTitle{
+        font-size: 50px;
+        line-height: 57px;
+    }
+}
+@media(max-width: 599px){
+    .mainTitle{
+        font-size: 32px;
+        line-height: 39px;
+    }
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: var(--yellow);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: var(--yellow);
+}

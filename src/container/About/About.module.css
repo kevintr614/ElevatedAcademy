@@ -1,0 +1,59 @@
+.aboutContainer{
+    padding: 150px 0;
+    position: relative;
+}
+.bkg{
+    position: absolute;
+    top: 150px;
+    right: 0;
+    z-index: -1;
+}
+.title{
+    text-align: right;
+}
+.text{
+    font-size: 15px;
+    line-height: 32px;
+    margin-top: 25px;
+}
+.text p{
+    margin: 0;
+}
+.video{
+    position: relative;
+    max-width: 100%;
+    text-align: center;
+}
+.video > div{
+    position: relative;
+    padding-bottom: 56.25%;
+}
+
+.video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.spacingTop{
+    margin-top: 110px;
+}
+.button{
+    margin: 100px auto 0;
+}
+
+@media(max-width: 899px){
+    .video{
+        margin: 50px auto 0;
+    }
+    .spacingTop{
+        margin-top: 50px;
+    }
+}
+
+@media(max-width: 599px){
+    .button{
+        margin-top: 40px;
+    }
+}

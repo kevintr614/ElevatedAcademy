@@ -1,0 +1,35 @@
+.card{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.icon{
+    height: 49px;
+}
+.title{
+    font-size: 31px;
+    line-height: 34px;
+    color: #FFF;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: var(--font-third);
+    margin-top: 15px;
+    padding-bottom: 19px;
+    position: relative;
+    display: inline-block;
+}
+.title:after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-bottom: 1px solid rgba(236, 185, 86, 0.2);
+    width: 85%;
+    display: block;
+}
+.text{
+    font-size: 16px;
+    line-height: 33px;
+    font-family: var(--font-semiBold);
+    margin-top: 7px;
+}

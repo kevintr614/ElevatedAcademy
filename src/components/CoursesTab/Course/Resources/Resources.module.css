@@ -1,0 +1,39 @@
+.container{
+    text-align: center;
+}
+.mainTitle{
+    color: #FFF;
+}
+.text{
+    color: #FFF;
+}
+.list{
+    margin: 40px 0;
+}
+.list li{
+    margin: 20px auto;
+    width: 50%;
+}
+.list li a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background: var(--yellow);
+    border-radius: 5px;
+    color: #000;
+    min-height: 30px;
+    text-align: left;
+}
+.title{
+    color: #FFF;
+}
+.caption{
+    font-size: 12px;
+}
+
+@media(max-width: 767px) {
+    .list li{
+        width: 100%;
+    }
+}

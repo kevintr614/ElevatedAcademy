@@ -1,0 +1,25 @@
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.social li{
+    padding: 0 13px;
+}
+.social a{
+    display: block;
+    border-radius: 4px;
+    border: 1px solid var(--yellow);
+    padding: 6px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.social a:hover{
+    background-color: var(--yellow);
+}
+.social img{
+    display: block;
+}

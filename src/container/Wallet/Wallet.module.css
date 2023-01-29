@@ -1,0 +1,36 @@
+.headerContainer{
+    margin-top: 35px;
+    width: 100%;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.container > div{
+    flex: 1;
+}
+.logo{
+    text-align: center;
+}
+.logo img{
+    display: inline-block;
+}
+.button{
+    color: var(--yellow);
+    font-size: 24px;
+    border: 1px solid;
+    border-radius: 10px;
+    float: right;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+.title{
+    color: var(--yellow);
+    font-size: 24px;
+    border: 1px solid;
+    border-radius: 10px;
+    float: right;
+    padding: 5px 15px;
+    margin-top: 45px;
+}
