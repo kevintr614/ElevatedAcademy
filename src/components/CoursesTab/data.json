@@ -1,14 +1,14 @@
 [
   {
-    "title": "Credit Repair",
-    "subtitle": "",
+    "title": "Personal Credit",
+    "subtitle": "Repair & Build",
     "text": "This course focuses on teaching individuals how to improve their personal credit score and repair any negative marks on their credit report. It covers topics such as understanding credit reports, disputing errors, managing debt, and establishing good credit habits.",
     "image": "team-1.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "text": "description ",
         "list": [
           {
             "title": "Course Intro",
@@ -27,45 +27,20 @@
           }
         ]
       },
-      {
-        "title": "Files & Resources",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
-        "list": [
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          },
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          },
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          }
-        ]
-      }
+   
     ],
     "videos": [
       {
-        "title": "title 1",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "title": "Credit Repair",
+        "text": "",
         "list": [
           {
             "title": "Course Intro",
-            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "description": "description",
             "caption": "7 hours",
             "youtube": "DEHzLCnVdKE"
           },
-          {
-            "title": "Course Intro",
-            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
-            "caption": "7 hours",
-            "youtube": "DEHzLCnVdKE"
-          }
+          
         ]
       }
     ]
