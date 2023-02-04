@@ -26,29 +26,8 @@
             "pdf": "sample.pdf"
           }
         ]
-      },
-      {
-        "title": "Files & Resources",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
-        "list": [
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          },
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          },
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          }
-        ]
       }
-    ],
+     ],
     "videos": [
       {
         "title": "title 1",
