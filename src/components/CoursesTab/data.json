@@ -49,5 +49,56 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Personal Credit",
+    "subtitle": "",
+    "text": "This course focuses on personal credit, teaching individuals how to repair and build their credit. It covers a wide range of topics related to credit, including understanding credit reports and scores, disputing errors on credit reports, managing debt and establishing good credit habits.",
+    "image": "businesscredit.png",
+    "accessLevel": ["0x01", "0x00"],
+    "resources": [
+      {
+        "title": "Files & Resources",
+        "text": "",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      }
+     
+    ],
+    "videos": [
+      {
+        "title": "Credit Repair",
+        "text": "",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          },
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          }
+        ]
+      }
+    ]
   }
 ]
