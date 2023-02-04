@@ -1,14 +1,14 @@
 [
   {
-    "title": "Personal Credit",
-    "subtitle": "Repair & Build",
-    "text": "This course focuses on teaching individuals how to improve their personal credit score and repair any negative marks on their credit report. It covers topics such as understanding credit reports, disputing errors, managing debt, and establishing good credit habits.",
+    "title": "section 1",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
     "image": "team-1.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "description ",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
@@ -27,20 +27,45 @@
           }
         ]
       },
-   
-    ],
-    "videos": [
       {
-        "title": "Credit Repair",
-        "text": "",
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
-            "description": "description",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
             "caption": "7 hours",
             "youtube": "DEHzLCnVdKE"
           },
-          
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          }
         ]
       }
     ]
