@@ -51,9 +51,9 @@
     ]
   },
   {
-    "title": "Business Credit Credit",
+    "title": "Business Credit",
     "subtitle": "",
-    "text": "This course focuses on personal credit, teaching individuals how to repair and build their credit. It covers a wide range of topics related to credit, including understanding credit reports and scores, disputing errors on credit reports, managing debt and establishing good credit habits.",
+    "text": "This course teaches how to set up and improve a business's credit and find and get money for a business. Topics covered may include understanding credit reports, establishing trade lines, utilizing credit cards, and applying for loans and other forms of financing. The course aims to help entrepreneurs and small business owners build a solid financial base for their businesses.",
     "image": "businesscredit.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
