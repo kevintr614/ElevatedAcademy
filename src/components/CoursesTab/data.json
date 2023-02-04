@@ -1,14 +1,35 @@
 [
   {
     "title": "section 1",
-    "subtitle": "",
-    "text": "",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
     "image": "team-1.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "Test ",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
@@ -27,26 +48,26 @@
           }
         ]
       }
-     ],
-     [
+    ],
+    "videos": [
       {
-        "title": "Credit Repair",
-        "text": "",
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
-            "title": "",
-            "description": "BEFORE CREDIT REPAIR, ADD SECURITY FREEZE TO THESE BUREAUS:ARS - Advanced Resolution Services. Call at: 1-800-392-8911",
-            "caption": "",
-            "youtube": ""
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
           },
           {
             "title": "Course Intro",
             "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
-            "caption": "",
-            "youtube": ""
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
           }
         ]
       }
     ]
   }
-]
+  ]
