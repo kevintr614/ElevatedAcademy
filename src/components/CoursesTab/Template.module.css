@@ -15,7 +15,7 @@
     line-height: 29px;
     margin-bottom: 10px;
     text-transform: uppercase;
-    position: center;
+    text-align: center;
 }
 .description{
     font-size: 16px;
