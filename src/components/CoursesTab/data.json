@@ -1,14 +1,14 @@
 [
   {
-    "title": "section 1",
-    "subtitle": "56 videos",
-    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
-    "image": "team-1.png",
+    "title": "Personal Credit",
+    "subtitle": "",
+    "text": "This course focuses on personal credit, teaching individuals how to repair and build their credit. It covers a wide range of topics related to credit, including understanding credit reports and scores, disputing errors on credit reports, managing debt and establishing good credit habits.",
+    "image": "personalcredit.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "text": "",
         "list": [
           {
             "title": "Course Intro",
@@ -31,8 +31,8 @@
     ],
     "videos": [
       {
-        "title": "title 1",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "title": "Credit Repair",
+        "text": "",
         "list": [
           {
             "title": "Course Intro",
