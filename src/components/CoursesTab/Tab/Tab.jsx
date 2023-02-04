@@ -10,7 +10,7 @@ const Tab = props => {
                 <div className={css.title}>{title}</div>
                 <div className={css.subtitle}>{subtitle}</div>
             </div>
-            <div className={css.button}>View Videos</div>
+            <div className={css.button}>View Course</div>
         </div>
     )
 }
