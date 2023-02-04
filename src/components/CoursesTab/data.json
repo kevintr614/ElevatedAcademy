@@ -28,7 +28,7 @@
         ]
       }
      ],
-    "videos": [
+     [
       {
         "title": "Credit Repair",
         "text": "",
@@ -36,7 +36,6 @@
           {
             "title": "BEFORE CREDIT REPAIR, ADD SECURITY FREEZE TO THESE BUREAUS:",
             "description": "ARS - Advanced Resolution Services. Call at: 1-800-392-8911",
-            "description": "LEXISNEXIS RISK RESOLUTIONS - Call at: 1-800-543-6862",
             "caption": "",
             "youtube": ""
           },
