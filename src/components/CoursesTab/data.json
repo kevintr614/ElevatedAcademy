@@ -1,14 +1,14 @@
 [
   {
     "title": "section 1",
-    "subtitle": "56 videos",
-    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "subtitle": "",
+    "text": "",
     "image": "team-1.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "text": "Test ",
         "list": [
           {
             "title": "Course Intro",
@@ -30,20 +30,21 @@
      ],
     "videos": [
       {
-        "title": "title 1",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "title": "Credit Repair",
+        "text": "",
         "list": [
           {
-            "title": "Course Intro",
-            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
-            "caption": "7 hours",
-            "youtube": "DEHzLCnVdKE"
+            "title": "BEFORE CREDIT REPAIR, ADD SECURITY FREEZE TO THESE BUREAUS:",
+            "description": "ARS - Advanced Resolution Services. Call at: 1-800-392-8911",
+            "description": "LEXISNEXIS RISK RESOLUTIONS - Call at: 1-800-543-6862",
+            "caption": "",
+            "youtube": ""
           },
           {
             "title": "Course Intro",
             "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
-            "caption": "7 hours",
-            "youtube": "DEHzLCnVdKE"
+            "caption": "",
+            "youtube": ""
           }
         ]
       }
