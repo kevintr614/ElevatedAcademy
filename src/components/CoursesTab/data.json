@@ -151,5 +151,56 @@
         ]
       }
     ]
+  },
+  {
+    "title": "Travel Hack",
+    "subtitle": "",
+    "text": "This course teaches you how to attain the highest level of status in most hotels and casinos without gambling or spending money.",
+    "image": "travelhack.png",
+    "accessLevel": ["0x01", "0x00"],
+    "resources": [
+      {
+        "title": "Files & Resources",
+        "text": "",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      }
+     
+    ],
+    "videos": [
+      {
+        "title": "Credit Repair",
+        "text": "",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          },
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          }
+        ]
+      }
+    ]
   }
 ]
