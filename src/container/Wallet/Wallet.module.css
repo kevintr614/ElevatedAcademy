@@ -1,11 +1,15 @@
 .headerContainer{
     margin-top: 35px;
     width: 100%;
+    height: 62px;
 }
 .container{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    position: absolute;
+    right: 20px;
+    z-index: 9998;
 }
 .container > div{
     flex: 1;
@@ -33,4 +37,10 @@
     float: right;
     padding: 5px 15px;
     margin-top: 45px;
+}
+@media(max-width: 599px){
+    .headerContainer{
+        margin-top: 100px;
+        position: relative;
+    }
 }

@@ -34,7 +34,6 @@ const CoursesTab = props => {
                         </Grid>
                     )
                 }
-
                 {Object.keys(course).length !== 0 &&
                     <Grid xs={12}>
                         <Course course={course} handleGoBack={handleGoBack}/>

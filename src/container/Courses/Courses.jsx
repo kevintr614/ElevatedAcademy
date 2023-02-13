@@ -13,10 +13,11 @@ const Courses = () => {
     const [message, setMessage] = useState("");
 
     const handleLoginWallet = id => {
+        id = '0x00';
         if(id === '0x00' || id === '0x01'){
             setTokenId(id);
-            if(id === '0x00') setMessage('Congratulations, you have successfully logged in with VIP Pass privileges.')
-            if(id === '0x01') setMessage('Congratulations, you have successfully logged in with Founder Pass privileges.')
+            if(id === '0x00') setMessage('Congratulations, you have successfully logged in with Founder Pass privileges.')
+            if(id === '0x01') setMessage('Congratulations, you have successfully logged in with VIP Pass privileges.')
         }
         setPermissionStatus(true);
     }
@@ -25,7 +26,7 @@ const Courses = () => {
         <>
             <Header/>
             <Wallet tokenId={handleLoginWallet}/>
-            <div id="faq" className={css.container}>
+            <div className={css.container}>
                 <Container maxWidth="lg" className="container-fluid">
                     <Grid container>
                         <Grid xs={12}>

@@ -1,14 +1,35 @@
 [
   {
-    "title": "Personal Credit",
-    "subtitle": "",
-    "text": "This course focuses on personal credit, teaching individuals how to repair and build their credit. It covers a wide range of topics related to credit, including understanding credit reports and scores, disputing errors on credit reports, managing debt and establishing good credit habits.",
-    "image": "personalcredit.png",
+    "title": "section 1",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "image": "team-1.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
@@ -27,12 +48,82 @@
           }
         ]
       }
-     
     ],
     "videos": [
       {
-        "title": "Credit Repair",
-        "text": "",
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "image": "team-1.png",
+            "youtube": "DEHzLCnVdKE"
+          },
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "image": "",
+            "youtube": "DEHzLCnVdKE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "section 1",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "image": "team-1.png",
+    "accessLevel": ["0x01", "0x00"],
+    "resources": [
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
@@ -51,15 +142,36 @@
     ]
   },
   {
-    "title": "Business Credit",
-    "subtitle": "",
-    "text": "This course teaches how to set up and improve a business's credit and find and get money for a business. Topics covered may include understanding credit reports, establishing trade lines, utilizing credit cards, and applying for loans and other forms of financing. The course aims to help entrepreneurs and small business owners build a solid financial base for their businesses.",
-    "image": "businesscredit.png",
+    "title": "section 1",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "image": "team-1.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
@@ -78,12 +190,11 @@
           }
         ]
       }
-     
     ],
     "videos": [
       {
-        "title": "Credit Repair",
-        "text": "",
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
@@ -102,15 +213,36 @@
     ]
   },
   {
-    "title": "Car Rental",
-    "subtitle": "",
-    "text": "This course focuses on personal credit, teaching individuals how to repair and build their credit. It covers a wide range of topics related to credit, including understanding credit reports and scores, disputing errors on credit reports, managing debt and establishing good credit habits.",
-    "image": "carrental.png",
+    "title": "section 1",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "image": "team-1.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
@@ -129,12 +261,11 @@
           }
         ]
       }
-     
     ],
     "videos": [
       {
-        "title": "Credit Repair",
-        "text": "",
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
@@ -153,15 +284,36 @@
     ]
   },
   {
-    "title": "Travel Hack",
-    "subtitle": "",
-    "text": "This course teaches you how to attain the highest level of status in most hotels and casinos without gambling or spending money.",
-    "image": "travelhack.png",
+    "title": "section 1",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "image": "team-1.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",
@@ -180,12 +332,224 @@
           }
         ]
       }
-     
     ],
     "videos": [
       {
-        "title": "Credit Repair",
-        "text": "",
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          },
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "section 1",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "image": "team-1.png",
+    "accessLevel": ["0x01", "0x00"],
+    "resources": [
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          },
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "section 1",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "image": "team-1.png",
+    "accessLevel": ["0x01", "0x00"],
+    "resources": [
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          },
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "caption": "7 hours",
+            "youtube": "DEHzLCnVdKE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "section 1",
+    "subtitle": "56 videos",
+    "text": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.",
+    "image": "team-1.png",
+    "accessLevel": ["0x01", "0x00"],
+    "resources": [
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Files & Resources",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          },
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "title": "title 1",
+        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
             "title": "Course Intro",

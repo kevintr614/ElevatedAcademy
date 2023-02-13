@@ -36,7 +36,29 @@
     font-size: 12px;
     white-space: nowrap;
 }
-
+.image{
+    margin: 30px auto;
+    display: table;
+}
+.video{
+    position: relative;
+    z-index: 2;
+    max-width: 500px;
+    width: 100%;
+    margin: 35px auto;
+}
+.videoFrame{
+    position: relative;
+    padding-bottom: 56.25%;
+    width: 100%;
+}
+.videoFrame iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 @media(max-width: 767px) {
     .list li{
         width: 100%;

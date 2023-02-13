@@ -16,6 +16,7 @@
 }
 .logo img{
     display: inline-block;
+    width: 280px;
 }
 .subscribe{
     border: 1px solid var(--yellow);

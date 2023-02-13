@@ -4,19 +4,22 @@
     margin-top: 35px;
     width: 100%;
     left: 0;
-    z-index: 999;
+    /*z-index: 999;*/
 }
 .logo{
     text-align: center;
 }
 .logo img{
     display: inline-block;
+    width: 280px;
 }
 .menu{
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 25px;
+    z-index: 9999;
+    position: relative;
 }
 .menu li{
     padding: 0 25px;
@@ -33,6 +36,7 @@
     position: absolute;
     top: -12px;
     right: 20px;
+    z-index: 9999;
 }
 .navbar{
     -webkit-transition: all .3s ease-in-out;
@@ -68,6 +72,9 @@
     padding-bottom: 30px;
 }
 @media(max-width: 599px){
+    .headerContainer{
+        z-index: 9999;
+    }
     .menu{
         display: none;
     }
