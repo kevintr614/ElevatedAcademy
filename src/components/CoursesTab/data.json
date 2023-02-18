@@ -14,35 +14,14 @@
             "title": "Course Intro",
             "caption": "Download",
             "pdf": "sample.pdf"
-          },
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          },
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          }
+          }            
         ]
-      },
-      {
-        "title": "Files & Resources",
-        "text": "",
-        "list": [
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          }             
-        ]
-      }
+      }      
     ],
     "videos": [
       {
         "title": "Personal Credit",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "text": "The purpose of this course is to provide you with a comprehensive understanding of personal credit and guide you through the process of repairing, building, and scaling your credit.",
         "list": [
           {
             "title": "Course Intro",
