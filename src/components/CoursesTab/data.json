@@ -1,14 +1,14 @@
 [
   {
-    "title": "Personal Credit",
+    "title": "",
     "subtitle": "",
-    "text": "Test",
+    "text": "",
     "image": "personalcredit.png",
     "accessLevel": ["0x01", "0x00"],
     "resources": [
       {
         "title": "Files & Resources",
-        "text": "description  ",
+        "text": "",
         "list": [
           {
             "title": "Course Intro",
@@ -29,29 +29,19 @@
       },
       {
         "title": "Files & Resources",
-        "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
+        "text": "",
         "list": [
           {
             "title": "Course Intro",
             "caption": "Download",
             "pdf": "sample.pdf"
-          },
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          },
-          {
-            "title": "Course Intro",
-            "caption": "Download",
-            "pdf": "sample.pdf"
-          }
+          }             
         ]
       }
     ],
     "videos": [
       {
-        "title": "title 1",
+        "title": "Personal Credit",
         "text": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1 ",
         "list": [
           {
@@ -59,13 +49,7 @@
             "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
             "image": "team-1.png",
             "youtube": "DEHzLCnVdKE"
-          },
-          {
-            "title": "Course Intro",
-            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
-            "image": "",
-            "youtube": "DEHzLCnVdKE"
-          }
+          }          
         ]
       }
     ]
