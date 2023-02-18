@@ -12,9 +12,9 @@ const Course = props => {
             <div className={css.title}><h3>{title}</h3></div>
             <div className={css.text}>{text}</div>
             <div className={css.tab}>
-                <div onClick={()=>setButton(0)} className={button === 0 ? css.active : ''}>Videos</div>
+                <div onClick={()=>setButton(0)} className={button === 0 ? css.active : ''}>Lessons</div>
                 <div onClick={()=>setButton(1)} className={button === 1 ? css.active : ''}>Resources</div>
-                <div onClick={props.handleGoBack}>Courses</div>
+                <div onClick={props.handleGoBack}>Back To Course List</div>
             </div>
 
             {button === 0
