@@ -32,5 +32,107 @@
         ]
       }
     ]
+  },
+  {
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "image": "businesscredit.png",
+    "accessLevel": ["0x01", "0x00"],
+    "resources": [
+      {
+        "title": "Files & Resources",
+        "text": "",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }            
+        ]
+      }      
+    ],
+    "videos": [
+      {
+        "title": "Business Credit",
+        "text": "The purpose of this course is to provide you with a comprehensive understanding of personal credit and guide you through the process of repairing, building, and scaling your credit.",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "image": "team-1.png",
+            "youtube": "DEHzLCnVdKE"
+          }          
+        ]
+      }
+    ]
+  },
+  {
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "image": "travelhack.png",
+    "accessLevel": ["0x01", "0x00"],
+    "resources": [
+      {
+        "title": "Files & Resources",
+        "text": "",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }            
+        ]
+      }      
+    ],
+    "videos": [
+      {
+        "title": "Travel Hack",
+        "text": "The purpose of this course is to provide you with a comprehensive understanding of personal credit and guide you through the process of repairing, building, and scaling your credit.",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "image": "team-1.png",
+            "youtube": "DEHzLCnVdKE"
+          }          
+        ]
+      }
+    ]
+  },
+  {
+    "title": "",
+    "subtitle": "",
+    "text": "",
+    "image": "carrental.png",
+    "accessLevel": ["0x01", "0x00"],
+    "resources": [
+      {
+        "title": "Files & Resources",
+        "text": "",
+        "list": [
+          {
+            "title": "Course Intro",
+            "caption": "Download",
+            "pdf": "sample.pdf"
+          }            
+        ]
+      }      
+    ],
+    "videos": [
+      {
+        "title": "Car Rental",
+        "text": "The purpose of this course is to provide you with a comprehensive understanding of personal credit and guide you through the process of repairing, building, and scaling your credit.",
+        "list": [
+          {
+            "title": "Course Intro",
+            "description": "description  1 description 1 description 1 description 1 description 1 description 1 description 1 description 1",
+            "image": "team-1.png",
+            "youtube": "DEHzLCnVdKE"
+          }          
+        ]
+      }
+    ]
   }
 ]
