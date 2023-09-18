@@ -55,7 +55,7 @@ const About = () => {
                     </Grid>
                     <Grid xs={12} md={6} lg={6}>
                         <div className={css.video}>
-                            <YouTube videoId="DEHzLCnVdKE" opts={opts} />
+                            <YouTube videoId="AdlJiZ2rElI" opts={opts} />
                         </div>
                     </Grid>
                     <Grid xs={12} className={css.spacingTop}>
