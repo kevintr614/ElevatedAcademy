@@ -21,13 +21,13 @@ const About = () => {
             icon: Image2,
             text: "If you're looking for a fun and unique way to network with some of the most successful people in your industry, Yacht Networking is the answer! You'll be able to mix and mingle with like-minded individuals while enjoying the beautiful scenery. It's the perfect way to expand your professional network! We host monthly networking events on our yachts in Los Angeles, San Diego, Miami, and soon around the globe. We have a variety of events, including workshops, seminars, conferences, and parties.",
         },{
-            title: 'Travel Booking Platform',
+            title: 'Personal Credit Repair',
             icon: Image1,
-            text: "The world's first web3 travel booking platform is here! With exclusive access to non-published rates and deals with over 2.5M hotels, 950 airlines, and 15,000 resorts around the world, there's no better place to find your perfect vacation. We offer a 110% Money Back Guarantee to our customers. If you find a lower price for the same hotel or flight on another website, let us know and we will match or beat the current offer. This is our promise to you!",
+            text: "Unlock your financial potential with our Personal Credit Repair Service. We specialize in restoring your credit health, helping you qualify for better loans, lower interest rates, and improved financial opportunities. Our expert team analyzes your credit report, disputes inaccuracies, and crafts personalized strategies to boost your score. With us, you'll receive regular updates on your progress, empowering you to take control of your financial future. Don't let past setbacks define your creditworthiness.",
         },{
-            title: 'Education Portal',
+            title: 'Business Funding up to $150,000',
             icon: Image3,
-            text: "We strongly believe that education is key to success. By providing our members with the tools and resources they need to succeed, we are helping them build a strong foundation for their future. We are committed to helping our members reach their full potential, and we will continue to invest in their education and development. ",
+            text: "Elevate your business to new heights with our Business Funding Service. We specialize in simplifying the funding process and removing the burden of extensive documentation. Our seasoned consultants leverage cutting-edge technology and alternative data sources to assess your creditworthiness, ensuring swift access to capital. Whether you're a startup or an established business, our expertise and streamlined approach pave the way for hassle-free funding. We'll guide you through the entire process, from application to approval, helping you secure the resources needed for growth and expansion. With our Business Funding Service, you can focus on what you do best—running your business—while we take care of your funding needs efficiently and effectively.",
         },
     ]);
 
@@ -48,8 +48,8 @@ const About = () => {
                     <Grid xs={12} md={6} lg={6}>
                         <div className={`mainTitle ${css.title}`}>What is <span>Elevated Yacht Club</span>?</div>
                         <div className={css.text}>
-                            <p>The entrepreneurial journey can be a lonely one specially in web3. That's why it's so important to surround yourself with like-minded individuals who can support and encourage you.</p>
-                            <p>At Elevated Yacht Club we bring together people who are passionate about web3 technologies and want to learn more about this growing ecosystem. Our members come from all over the world and represent a wide range of backgrounds and expertise. Through our online platform and events, we provide a space for our community to connect, share knowledge, and collaborate on projects.</p>
+                            <p>The entrepreneurial journey can be a lonely one, especially in Web 3. That's why it's so important to surround yourself with like-minded individuals who can support and encourage you.</p>
+                            <p>At Elevated Yacht Club, we bring together people who are passionate about Web3 technologies and want to learn more about this growing ecosystem. Our members come from all over the world and represent a wide range of backgrounds and expertise. Through our online platform and events, we provide a space for our community to connect, share knowledge, and collaborate on projects.</p>
                             <p>If you're looking for a supportive community of fellow entrepreneurs, we invite you to join us. Together, let's turn our big ideas into reality.</p>
                         </div>
                     </Grid>
