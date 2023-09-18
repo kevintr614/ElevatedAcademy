@@ -24,18 +24,11 @@ const Benefits = () => {
         },{
             title: 'Personal Credit Repair & Funding',
             list: [
-                'Life-time access to our Education Portal.',
-                'Two years access to our travel booking platform. (Up to 75% off retails)',
-                'Life-time access to all exclusive IRL events.',
-                'One free ticket to our yacht event. ($250 per ticket afterward)',
-                'Access to our token-gate Discord.',
-                'Life-time access to all exclusive IRL events.',
-                'DIY travel hack.',
-                '10% off yacht rental. (12ppl max)',
-                
+                'Unlock your financial potential with our Personal Credit Repair Service. We specialize in restoring your credit health, helping you qualify for better loans, lower interest rates, and improved financial opportunities. Our expert team analyzes your credit report, disputes inaccuracies, and crafts personalized strategies to boost your score. With us, you'll receive regular updates on your progress, empowering you to take control of your financial future. Don't let past setbacks define your creditworthiness.',
+                                
             ]
         },{
-            title: 'FOUNDER PASS',
+            title: 'Business Funding',
             list: [
                 'Life-time access to our Education Portal.',
                 'Life-time access to our travel booking platform. (Up to 75% off retails)',
