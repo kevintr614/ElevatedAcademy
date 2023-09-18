@@ -11,49 +11,29 @@ const Benefits = () => {
         {
             title: 'Education Portal',
             list: [
-                'Get Top Hotel Status: Hilton, Marriot, Hyatt...',
-                'Get Top Casino Status: MGM, Ceasar Palace...',
-                'Get Top Car Rental Status: Herzt, Enterprise, National...',
-                'Get Top Airline Status: Delta, United...',
-                'Personal credit and Funding.',
-                'Business Credit and Funding.',
-                'Credit Card Tips: waive annual fees, get approve without hard inquiry, double credit limit...',
-                'Videos DIY Credit Repair: remove inquiries, late payments, collections...',
-                'Resources: 50+ Legal letter for credit repair.',
-                'Real Estate Investing: BRRRR, Airbnb atbitrage, Airbnb luxury rental...',
-                'Social Media Growth and Monetization. (Instagram)',
-                'Youtube chanel automation. (faceless).'
+                'Achieve Top Hotel Status: Hilton, Marriot, Hyatt...',
+                'Achieve Top Casino Status: MGM, Caesar Palace...',
+                'Achieve Top Car Rental Status with Hertz, Enterprise, National...',
+                'Credit Card Tips: waive annual fees, get approval without hard inquiry, double credit limit...',
+                'DIY Credit Repair: remove inquiries, late payments, collections...',
+                'Resources: 50+ Credit Repair Legal Letters.',                               
             ]
         },{
-            title: 'VIP PASS',
+            title: 'Personal Credit Repair & Funding',
             list: [
-                'Life-time access to our Education Portal.',
-                'Two years access to our travel booking platform. (Up to 75% off retails)',
-                'Life-time access to all exclusive IRL events.',
-                'One free ticket to our yacht event. ($250 per ticket afterward)',
-                'Access to our token-gate Discord.',
-                'Life-time access to all exclusive IRL events.',
-                'DIY travel hack.',
-                '10% off yacht rental. (12ppl max)',
-                
+                'Credit Report Analysis and Evaluation.',
+                'Dispute All Errors and Negative Items',
+                'Establishing Positive Credit History',
+                'Personal Funding Up to $30,000,'
             ]
         },{
-            title: 'FOUNDER PASS',
+            title: 'Business Funding Up To $150,000',
             list: [
-                'Life-time access to our Education Portal.',
-                'Life-time access to our travel booking platform. (Up to 75% off retails)',
-                'Life-time Access to all exclusive IRL events +1. ',
-                'Guarantee ticket to our yacht events.',
-                'Private Founder Chatroom.',
-                'Priority support.',
-                '30% off yacht rental. (24ppl max)',
-                'Have our team organize yacht events for you, your company or project.',
-                'Private Jet charter.',
-                'Access to our contact in various industries.',
-                'Access to in-house funding team.',
-                'Access to our algorith trading bot.',
-                'Access to our web3 Consultation Services. For any web2 company or brand wanting to get into web3, we can help. Our consultation services will help you understand this new landscape and how best to navigate it. We will work with you to develop a strategy that takes advantage of the opportunities web3 offers while mitigating the risks.',
-            ]
+                'Setup & Structure Your LLC',
+                'Business Banking and Relationships',
+                'Round 1 Business Funding Up To $70,000,'
+                'Round 2 Business Funding Up To $50,000',
+                'Round 3 Business Funding Up To $30,000',        
         },
     ]);
 
