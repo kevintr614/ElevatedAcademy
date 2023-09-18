@@ -11,21 +11,18 @@ const Benefits = () => {
         {
             title: 'Education Portal',
             list: [
-                'Get Top Hotel Status: Hilton, Marriot, Hyatt...',
-                'Get Top Casino Status: MGM, Ceasar Palace...',
-                'Get Top Car Rental Status: Hertz, Enterprise, National...',
-                'Get Top Airline Status: Delta, United...',
-                'Personal credit and Funding.',
+                'Archive Top Hotel Status: Hilton, Marriot, Hyatt...',
+                'Archive Top Casino Status: MGM, Caesar Palace...',
+                'Archive Top Car Rental Status: Hertz, Enterprise, National...',
+                'Airline Status Hack: Delta, United...',
+                'Personal Credit and Funding.',
                 'Business Credit and Funding.',
-                'Credit Card Tips: waive annual fees, get approve without hard inquiry, double credit limit...',
-                'Videos DIY Credit Repair: remove inquiries, late payments, collections...',
-                'Resources: 50+ Legal letter for credit repair.',
-                'Real Estate Investing: BRRRR, Airbnb atbitrage, Airbnb luxury rental...',
-                'Social Media Growth and Monetization. (Instagram)',
-                'Youtube chanel automation. (faceless).'
+                'Credit Card Tips: waive annual fees, get approval without hard inquiry, double credit limit...',
+                'DIY Credit Repair: remove inquiries, late payments, collections...',
+                'Resources: 50+ Credit Repair Legal Letters.',
             ]
         },{
-            title: 'VIP PASS',
+            title: 'Personal Credit Repair & Funding',
             list: [
                 'Life-time access to our Education Portal.',
                 'Two years access to our travel booking platform. (Up to 75% off retails)',
