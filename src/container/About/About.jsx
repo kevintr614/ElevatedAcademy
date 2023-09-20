@@ -70,7 +70,7 @@ const About = () => {
                         </Container>
                     </Grid>
                     <Grid xs={12}>
-                        <a target="_blank" rel="noreferrer" href="#" className={`button ${css.button}`}>WHITEPAPER <img src={ButtonIcon} alt=""/></a>
+                        <a target="_blank" rel="noreferrer" href="#" className={`button ${css.button}`}>JOIN NOW <img src={ButtonIcon} alt=""/></a>
                     </Grid>
                 </Grid>
             </Container>
