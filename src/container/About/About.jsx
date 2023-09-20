@@ -25,7 +25,7 @@ const About = () => {
             icon: Image1,
             text: "Unlock your financial potential with our Personal Credit Repair Service. We specialize in restoring your credit health, helping you qualify for better loans, lower interest rates, and improved financial opportunities. Our expert team analyzes your credit report, disputes inaccuracies, and crafts personalized strategies to boost your score. With us, you'll receive regular updates on your progress, empowering you to take control of your financial future. Don't let past setbacks define your creditworthiness.",
         },{
-            title: 'Business Funding up to $150,000',
+            title: 'Business Funding',
             icon: Image3,
             text: "Elevate your business to new heights with our Business Funding Service. We specialize in simplifying the funding process and removing the burden of extensive documentation. Our seasoned consultants leverage cutting-edge technology and alternative data sources to assess your creditworthiness, ensuring swift access to capital. Whether you're a startup or an established business, our expertise and streamlined approach pave the way for hassle-free funding. We'll guide you through the entire process, from application to approval, helping you secure the resources needed for growth and expansion. With our Business Funding Service, you can focus on what you do best—running your business—while we take care of your funding needs efficiently and effectively.",
         },
