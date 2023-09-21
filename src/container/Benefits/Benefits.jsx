@@ -14,15 +14,13 @@ function Benefits() {
                 'Archive Top Hotel Status: Hilton, Marriot, Hyatt...',
                 'Archive Top Casino Status: MGM, Caesar Palace...',
                 'Archive Top Car Rental Status: Hertz, Enterprise, National...',
-                'Airline Status Hack: Delta, United...',
-                'Personal Credit and Funding.',
-                'Business Credit and Funding.',
+                'Airline Status Hack: Delta, United...',            
                 'Credit Card Tips: waive annual fees, get approval without hard inquiry, double credit limit...',
                 'DIY Credit Repair: remove inquiries, late payments, collections...',
                 'Resources: 50+ Credit Repair Legal Letters.',
             ]
         }, {
-            title: 'Personal Credit Repair & Funding',
+            title: 'Personal Credit Repair',
             list: [
                 'Unlock your financial potential with our Personal Credit Repair Service. We specialize in restoring your credit health, helping you qualify for better loans, lower interest rates, and improved financial opportunities. Our expert team analyzes your credit report, disputes inaccuracies, and crafts personalized strategies to boost your score. With us, you will, receive, regular, updates, on, your, progress, empowering, you, to, take, control, of, your, financial, future. Do not let past setbacks define your creditworthiness.',
             ]
