@@ -7,25 +7,7 @@ import FounderPass from '../../images/founder-pass.gif';
 const Mint = () => {
     const [index, setIndex] = useState(0);
     const [list] = useState([
-        {
-            image: VipPass,
-            url: 'https://mint.elevatedyachtclub.com/',
-            content: [
-                {
-                    label: 'ETH',
-                    value: '0.45'
-                },{
-                    label: 'Presale Supply',
-                    value: '113/300'
-                },{
-                    label: 'ETH',
-                    value: '0.65'
-                },{
-                    label: 'Total Supply',
-                    value: '0/1,600'
-                },
-            ]
-        }, {
+        {            
             image: FounderPass,
             url: 'https://mint.elevatedyachtclub.com/founder',
             content: [
@@ -34,13 +16,13 @@ const Mint = () => {
                     value: '2.5'
                 },{
                     label: 'Presale Supply',
-                    value: '52/100'
+                    value: '30/30'
                 },{
                     label: 'ETH',
                     value: '3.5'
                 },{
                     label: 'Total Supply',
-                    value: '0/300'
+                    value: '3/400'
                 },
             ]
         }
@@ -53,10 +35,8 @@ const Mint = () => {
     return(
         <Fragment>
             <Grid xs={12}>
-                <ul className={css.categories}>
-                    <li className={index === 0 ? css.categoryActive : ''} onClick={()=>handleClick(0)}>VIP PASS</li>
-                    <li className={index === 1 ? css.categoryActive : ''} onClick={()=>handleClick(1)}>Founder Pass</li>
-                    <li className={index === 2 ? css.categoryActive : ''} onClick={()=>handleClick(2)}>Member Pass</li>
+                <ul className={css.categories}>                   
+                    <li className={index === 1 ? css.categoryActive : ''} onClick={()=>handleClick(1)}>Founder Pass</li>                   
                 </ul>
             </Grid>
             {list[index] !== undefined
